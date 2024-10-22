@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jhonbaron99
+- 👀 I’m interested in Software Architecture, Game Engines and System Design!
+- 🌱 I’m currently learning everything as possible from Stori! 😄
+- 💞️ I’m looking to collaborate on MoMo Squad!
+- 📫 How to reach me: jhon.baron on Slack!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a cat and its name is Jenkins 🐈
