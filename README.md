@@ -6,7 +6,7 @@
 
 🤝 I’m looking to collaborate with fellow developers on the **MoMo Squad**—!
 
-📫 Feel free to reach out: you can find me on Slack as **jhon.baron**.
+📫 Feel free to reach out: you can find me on Slack as **jhon.baron** or [LinkedIn](https://www.linkedin.com/in/jhon-baron/)!.
 
 😄 **Pronouns:** he/him
 
