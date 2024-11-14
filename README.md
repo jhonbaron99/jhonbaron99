@@ -1,6 +1,6 @@
 ### 👋 Hi there! I’m **@jhonbaron99**
 
-🌟 I’m passionate about **Software Architecture, Game Engines,** and **System Design.** Always eager to learn and explore new technologies!
+🌟 I’m passionate about **Software Architecture** and **System Design.** Always eager to learn and explore new technologies!
 
 🌱 Currently diving deep into all things related to **Stori** and expanding my skill set! 😄
 
